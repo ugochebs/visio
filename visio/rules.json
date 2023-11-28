@@ -1,0 +1,17 @@
+﻿[
+{
+    "Condition": "Florida",
+    "Action": "Disqualify",
+    "ActionValue": 0
+  },
+  {
+    "Condition": "CreditScore720",
+    "Action": "ReduceInterest",
+    "ActionValue": 0.3
+  },
+{
+  "Condition": "ProductName7-1ARM",
+  "Action": "IncreaseInterest",
+  "ActionValue": 0.5
+}
+  ]
